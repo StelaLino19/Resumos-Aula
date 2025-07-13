@@ -10,7 +10,7 @@ repositório para armazenar resumos sobre Git e Github do curso Versionamento de
 
 
 
-\## Resumo das Aulas
+\## Resumos das Aulas
 
 
 
